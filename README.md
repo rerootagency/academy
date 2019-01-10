@@ -13,5 +13,6 @@ Everything is subject to change and will be kept up to date as we stumble upon c
 * Learn Computer Science
 * Learn DevOps
 * [Learn Frontend Development](./learn-frontend-development.md)
+* Learn Game Development
 * Learn iOS Development
 * Learn System Administration
