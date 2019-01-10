@@ -1,10 +1,6 @@
 ## ReRoot Academy / Learn Frontend Development
 
-If you're looking to learn about frontend development, you're in the right place!
-
 > Keep in mind: all resources are free unless explicitly noted :)
-
----
 
 ### Books
 
