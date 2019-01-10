@@ -1,12 +1,15 @@
 ## ReRoot Academy / Learn Frontend Development
 
+> All resources are free unless explicitly noted :)
+
 ### Books
 
 Nothing better than a good book! These tried-and-tested tomes delve deep into the subject matter with surprising ease and are sure to leave you with new tricks up your sleeve.
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/), Marijn Haverbeke
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), Kyle Simpson
 * [Exploring JS](http://exploringjs.com/), Dr. Axel Rauschmayer
+* [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read), Reg Braithwaite
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), Kyle Simpson
 
 ### Newsletters
 
